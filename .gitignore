@@ -1,0 +1,18 @@
+# created by virtualenv automatically
+/bin/*
+/lib/*
+/music/*
+/share/*
+/whisper
+/whisper-medium-ko-zeroth
+/whisper.cpp
+tempCodeRunnerFile.py
+pyvenv.cfg
+LICENSE.txt
+.env
+.DS_Store
+app.log
+error.log
+**/transfer/
+test*
+.env
